@@ -1,6 +1,5 @@
 ======================================
 DJANGO 1.6 INITIALIZR TEMPLATE PROJECT
-
 ======================================
 
 A project template for Django 1.6.
